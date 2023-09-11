@@ -1,12 +1,6 @@
 ### Quick Buy
 ## Quick-Buy is a E-ecommerce website where a user can buy clothes and shoes as per requirement.
-#### This website was build on the behalf of sopa website.
-It was a collaborative project completed by team of 5 members.
-Hariom Verma (team Lead) has build the admin department for admin use  only.
-Prashant Som (team member) has build the product page and single product page where user can buy any stuff.
-Murad Kodalwad (team member ) has build landing page of the website to give it a attractive look.
-Bipin Bhat (team member ) has build the payment page and cart page for user to pay the amount for the product.
-Sajjak Ali (team member ) has build the login and sign up pages for a new user to create account on our website.
+
 <br/>
 # 💻 Tech Stack used :-
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
